@@ -32,6 +32,8 @@ improve real projects with AI agents.
 The product source is still private, but ideas, questions and early-access
 interest are welcome in the public community gateway:
 
+[View the Neon Green Harness preview](https://f6z98p6zd7s5.github.io/neon-green-harness/)
+
 [Open Neon Green Harness Community](https://github.com/f6z98p6zd7s5/neon-green-harness-community)
 
 Current phase: **private pre-production**. Public source and production use will
