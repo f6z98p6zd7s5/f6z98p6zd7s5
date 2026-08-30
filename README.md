@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://f6z98p6zd7s5.github.io/neon-green-harness/">
-    <img src="assets/neon-green-beyond-agi.png" alt="Neon Green Harness rising from a practical engineering core toward an evidence-gated beyond-AGI research horizon" width="100%">
+    <img src="assets/neon-green-profile.svg" alt="Neon Green engineering profile - Build, Verify, Improve" width="100%">
   </a>
 </div>
 
